@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tommy23rzt.github.io/gardaseebiketour/sitemap.xml
